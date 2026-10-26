@@ -1,6 +1,6 @@
 # 🚀 LifeDash — To-Do List & Life Dashboard
 
-> Mini Project **RevoU Coding Camp (Batch 24 Agustus 2026)** oleh **Rizqi Muchamad Anafis Tontowi**.
+> Mini Project **RevoU Coding Camp (Batch 24 Agustus 2026)** oleh **ikkymchmddev**.
 
 **LifeDash** adalah dashboard produktivitas web modern, estetik, responsif, dan kaya fitur yang dibangun murni menggunakan **HTML5, CSS3, dan Vanilla JavaScript (ES6+)**. Seluruh data pengguna tersimpan secara otomatis secara client-side menggunakan Browser `localStorage` API.
 
