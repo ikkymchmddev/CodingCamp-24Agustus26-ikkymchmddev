@@ -4,7 +4,7 @@
 
 **LifeDash** adalah dashboard produktivitas web modern, estetik, responsif, dan kaya fitur yang dibangun murni menggunakan **HTML5, CSS3, dan Vanilla JavaScript (ES6+)**. Seluruh data pengguna tersimpan secara otomatis secara client-side menggunakan Browser `localStorage` API.
 
-🌐 **Demo Live Website:** [https://ikkymchmddev.github.io/CodingCamp-24Agustus26-RizqiMuchamadAnafisTontowi/](https://ikkymchmddev.github.io/CodingCamp-24Agustus26-RizqiMuchamadAnafisTontowi/)
+🌐 **Demo Live Website:** https://ikkymchmddev.github.io/CodingCamp-24Agustus26-ikkymchmddev/
 
 ---
 
