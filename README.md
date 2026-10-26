@@ -49,10 +49,12 @@
 ## 📂 Struktur Direktori
 
 ```text
-c:\revou\CodingCamp-24Agustus26-RizqiMuchamadAnafisTontowi\
+CodingCamp-24Agustus26-ikkymchmddev/
 ├── index.html        # Struktur antarmuka dashboard utama
 ├── css/
 │   └── style.css     # Unified stylesheet (Design system & Dark/Light mode)
 ├── js/
 │   └── app.js        # Logika Vanilla JS, state, & localStorage
 └── README.md         # Dokumentasi proyek
+```
+
